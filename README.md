@@ -108,6 +108,6 @@ Flexbox: For responsive layouts.
   
 # Design
 
-<img width="1920" height="1080" alt="Desgin" src="https://github.com/user-attachments/assets/74ef0b92-1308-4679-ad18-3ed70d6d2419" />
+<img width="1920" height="1080" alt="Design" src="https://github.com/user-attachments/assets/6d4e6362-a11d-4150-897b-08dc3ee45439" />
 
 
