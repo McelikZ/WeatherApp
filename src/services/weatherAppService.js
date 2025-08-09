@@ -8,7 +8,7 @@ export const fetchWeatherService = async (lat,lon) => {
         params: {
           lat: lat,
           lon: lon,
-          appid: "d0e01c39cebb60d7117b349dea9039ad", 
+          appid: "App Key....", 
           units: "metric",
         },
       }

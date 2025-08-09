@@ -228,7 +228,7 @@ const HomePage = ({ navigation }) => {
           }}
         />
         <CustomImage
-          source={iconSource || require("../../../assets/Images/Icons/02d.png")}
+          source={iconSource || require("../../../assets/Images/Icons/03d.png")}
           imageStyle={{ width: 180, height: 180 }}
         />
 
