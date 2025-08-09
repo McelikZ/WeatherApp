@@ -10,6 +10,9 @@ Make sure you have Expo installed and configured before running the project.
 This project uses the OpenWeatherMap API, and the API key is directly included in the code.
 For production use, it is recommended to move the API key to an .env file or secure storage to protect sensitive data.
 
+ Link:
+- https://openweathermap.org/api
+
 ### ⚠️ Folder Name Notice
 
 If you downloaded this project as a `.zip` file from GitHub, the extracted folder may be named something like:
